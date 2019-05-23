@@ -1,2 +1,2 @@
 # Proyecto " Banda Selectora"
-# Tranaja de la sgueinte manera: Una banda movil llevara en este caso la basura que el usuario coloque, cuando el desecho llegue a nuestro sensor detectara si es plastico o no, en caso de que no sea platico dejara pasar la basura hacia un contenedor, si detecta que la basura colocada es plastico sera desviada con ayuda de unas palancas para ser separada en otro parte.
+# Trabaja de la sgueinte manera: Una banda movil llevara en este caso la basura que el usuario coloque, cuando el desecho llegue a nuestro sensor detectara si es plastico o no, en caso de que no sea platico dejara pasar la basura hacia un contenedor, si detecta que la basura colocada es plastico sera desviada con ayuda de unas palancas para ser separada en otro parte.
